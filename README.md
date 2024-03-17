@@ -36,7 +36,7 @@ Generate reports or visualizations (e.g., charts, graphs) to present the finding
 ## For Text Summarization
 -Implemented on Dummy Bank Complaints dataset to provide quick summaries to admin and department side for quick overview to get a gist of complaint issue.
 -Implemented Pipeline Transformer Models(Falconsai & BART(meta))
--Achieved 80% Length compression (approx.) \n
+-Achieved 80% Length compression (approx.) 
 
 Dataset WordCloud:
 
