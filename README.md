@@ -40,7 +40,7 @@ Generate reports or visualizations (e.g., charts, graphs) to present the finding
 
 Dataset Link (Kaggle):
 
-![link](https://www.kaggle.com/datasets/shashwatwork/consume-complaints-dataset-fo-nlp/data)
+[Bank Consumer Complaint](https://www.kaggle.com/datasets/shashwatwork/consume-complaints-dataset-fo-nlp/data)
 
 Dataset WordCloud:
 
