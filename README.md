@@ -36,12 +36,14 @@ Generate reports or visualizations (e.g., charts, graphs) to present the finding
 ## For Text Summarization
 -Implemented on Dummy Bank Complaints dataset to provide quick summaries to admin and department side for quick overview to get a gist of complaint issue.
 -Implemented Pipeline Transformer Models(Falconsai & BART(meta))
--Achieved 80% Length compression (approx.)
+-Achieved 80% Length compression (approx.) \n
 
 Dataset WordCloud:
+
 ![image](https://github.com/Aarya-0504/hackofire_WhackOverFlow/assets/97930406/595b3a48-396e-4437-8e7b-2ba65fdff948)
 
 Results:
+
 ![image](https://github.com/Aarya-0504/hackofire_WhackOverFlow/assets/97930406/4ce21d10-49f6-40c2-a2d9-880bcae99b2b)
 
 Length Compression Bar Graph:
